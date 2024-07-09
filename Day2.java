@@ -5,7 +5,6 @@ import java.util.ArrayDeque;
 import java.util.ArrayList;
 public class Day2 {
 	public static void main(String[] args) {
-		ArrayList<Integer> ar = new ArrayList<>();
 		ArrayDeque<Integer> qu = new ArrayDeque<>();
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt();
